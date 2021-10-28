@@ -13,7 +13,7 @@ PART 1 - INITIALISATION:
 ----------------------------------------------------------------------------------
 The code is written in julialang (tested with version Julia-1.4) and Python (tested with version 3.7.0)
 
-Download the AttractorNetwork folder from :  .... !!!!!!!!!!!
+Download the AttractorNetwork folder from :  https://c4science.ch/source/pub_Gastaldi_2021_AttractorNetwork.git
 In the folder you will find 
     - the "Main.jl" file, 
     - the "Plots" folder which contains the plot scripts in Python  
